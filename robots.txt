@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opivaaqa.github.io/JFr/sitemap_index.txt
+Sitemap: https://opivaaqa.github.io/LfZ/sitemap_index.txt
+Sitemap: https://opivaaqa.github.io/TnA/sitemap_index.txt
+Sitemap: https://opivaaqa.github.io/rbU/sitemap_index.txt
